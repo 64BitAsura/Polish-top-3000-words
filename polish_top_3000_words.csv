@@ -1,154 +1,154 @@
 rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,source_reference
 1,nie,particle,"; no, not",,,https://en.wiktionary.org/wiki/nie
 2,to,conjunction,be,,,https://en.wiktionary.org/wiki/to
-3,się,,,,,https://en.wiktionary.org/wiki/si%C4%99
+3,się,,reflexive particle,,,https://en.wiktionary.org/wiki/si%C4%99
 4,na,preposition,; on,,,https://en.wiktionary.org/wiki/na
 5,co,pronoun,; what,,,https://en.wiktionary.org/wiki/co
-6,że,,,,,https://en.wiktionary.org/wiki/%C5%BCe
+6,że,,that,,,https://en.wiktionary.org/wiki/%C5%BCe
 7,jest,verb,; is,,,https://en.wiktionary.org/wiki/jest
 8,do,preposition,"; to, toward",,,https://en.wiktionary.org/wiki/do
 9,tak,adverb,like this; so,,,https://en.wiktionary.org/wiki/tak
 10,jak,pronoun,how,,,https://en.wiktionary.org/wiki/jak
-11,mnie,pronoun,,,,https://en.wiktionary.org/wiki/mnie
+11,mnie,pronoun,me,,,https://en.wiktionary.org/wiki/mnie
 12,ale,conjunction,but,,,https://en.wiktionary.org/wiki/ale
-13,mi,pronoun,,,,https://en.wiktionary.org/wiki/mi
+13,mi,pronoun,to me,,,https://en.wiktionary.org/wiki/mi
 14,za,particle,"overly, excessively, too",,,https://en.wiktionary.org/wiki/za
 15,ja,pronoun,; I,,,https://en.wiktionary.org/wiki/ja
 16,ci,pronoun,.,,,https://en.wiktionary.org/wiki/ci
 17,tu,adverb,here,,,https://en.wiktionary.org/wiki/tu
-18,go,pronoun,,,,https://en.wiktionary.org/wiki/go
-19,tego,pronoun,,,,https://en.wiktionary.org/wiki/tego
+18,go,pronoun,him / it,,,https://en.wiktionary.org/wiki/go
+19,tego,pronoun,this / that,,,https://en.wiktionary.org/wiki/tego
 20,tym,particle,; the,,,https://en.wiktionary.org/wiki/tym
 21,ty,pronoun,you,,,https://en.wiktionary.org/wiki/ty
 22,czy,particle,; whether,,,https://en.wiktionary.org/wiki/czy
 23,tylko,conjunction,"except, only, just",,,https://en.wiktionary.org/wiki/tylko
 24,po,preposition,after,,,https://en.wiktionary.org/wiki/po
-25,jestem,verb,,,,https://en.wiktionary.org/wiki/jestem
-26,cię,,,,,https://en.wiktionary.org/wiki/ci%C4%99
-27,ma,verb,,,,https://en.wiktionary.org/wiki/ma
-28,może,,,,,https://en.wiktionary.org/wiki/mo%C5%BCe
-29,już,,,,,https://en.wiktionary.org/wiki/ju%C5%BC
-30,mam,verb,,,,https://en.wiktionary.org/wiki/mam
-31,jesteś,,,,,https://en.wiktionary.org/wiki/jeste%C5%9B
+25,jestem,verb,I am,,,https://en.wiktionary.org/wiki/jestem
+26,cię,,you,,,https://en.wiktionary.org/wiki/ci%C4%99
+27,ma,verb,has,,,https://en.wiktionary.org/wiki/ma
+28,może,,maybe / can,,,https://en.wiktionary.org/wiki/mo%C5%BCe
+29,już,,already,,,https://en.wiktionary.org/wiki/ju%C5%BC
+30,mam,verb,I have,,,https://en.wiktionary.org/wiki/mam
+31,jesteś,,you are,,,https://en.wiktionary.org/wiki/jeste%C5%9B
 32,pan,noun,"gentleman, man",,,https://en.wiktionary.org/wiki/pan
-33,coś,,,,,https://en.wiktionary.org/wiki/co%C5%9B
+33,coś,,something,,,https://en.wiktionary.org/wiki/co%C5%9B
 34,dla,preposition,for,,,https://en.wiktionary.org/wiki/dla
-35,wiem,verb,,,,https://en.wiktionary.org/wiki/wiem
+35,wiem,verb,I know,,,https://en.wiktionary.org/wiki/wiem
 36,dobrze,adverb,well,,,https://en.wiktionary.org/wiki/dobrze
-37,jeśli,,,,,https://en.wiktionary.org/wiki/je%C5%9Bli
+37,jeśli,,if,,,https://en.wiktionary.org/wiki/je%C5%9Bli
 38,od,preposition,"; from, away",,,https://en.wiktionary.org/wiki/od
 39,teraz,adverb,now,,,https://en.wiktionary.org/wiki/teraz
-40,proszę,,,,,https://en.wiktionary.org/wiki/prosz%C4%99
+40,proszę,,please,,,https://en.wiktionary.org/wiki/prosz%C4%99
 41,tam,adverb,there,,,https://en.wiktionary.org/wiki/tam
 42,wszystko,pronoun,everything,,,https://en.wiktionary.org/wiki/wszystko
 43,masz,interjection,here you are,,,https://en.wiktionary.org/wiki/masz
-44,więc,,,,,https://en.wiktionary.org/wiki/wi%C4%99c
+44,więc,,so,,,https://en.wiktionary.org/wiki/wi%C4%99c
 45,nic,pronoun,nothing,,,https://en.wiktionary.org/wiki/nic
-46,być,,,,,https://en.wiktionary.org/wiki/by%C4%87
-47,będzie,,,,,https://en.wiktionary.org/wiki/b%C4%99dzie
+46,być,,to be,,,https://en.wiktionary.org/wiki/by%C4%87
+47,będzie,,will be,,,https://en.wiktionary.org/wiki/b%C4%99dzie
 48,gdzie,adverb,where,,,https://en.wiktionary.org/wiki/gdzie
-49,są,,,,,https://en.wiktionary.org/wiki/s%C4%85
+49,są,,are,,,https://en.wiktionary.org/wiki/s%C4%85
 50,on,pronoun,"he , it",,,https://en.wiktionary.org/wiki/on
-51,mogę,,,,,https://en.wiktionary.org/wiki/mog%C4%99
+51,mogę,,can,,,https://en.wiktionary.org/wiki/mog%C4%99
 52,ten,pronoun,this,,,https://en.wiktionary.org/wiki/ten
-53,ciebie,pronoun,,,,https://en.wiktionary.org/wiki/ciebie
-54,sobie,pronoun,,,,https://en.wiktionary.org/wiki/sobie
-55,wiesz,adjective,,,,https://en.wiktionary.org/wiki/wiesz
-56,ze,preposition,,,,https://en.wiktionary.org/wiki/ze
+53,ciebie,pronoun,you,,,https://en.wiktionary.org/wiki/ciebie
+54,sobie,pronoun,to oneself,,,https://en.wiktionary.org/wiki/sobie
+55,wiesz,adjective,you know,,,https://en.wiktionary.org/wiki/wiesz
+56,ze,preposition,from,,,https://en.wiktionary.org/wiki/ze
 57,bardzo,adverb,very,,,https://en.wiktionary.org/wiki/bardzo
 58,jej,pronoun,her:,,,https://en.wiktionary.org/wiki/jej
 59,kiedy,pronoun,; when,,,https://en.wiktionary.org/wiki/kiedy
-60,był,,,,,https://en.wiktionary.org/wiki/by%C5%82
+60,był,,was,,,https://en.wiktionary.org/wiki/by%C5%82
 61,jeszcze,particle,yet,,,https://en.wiktionary.org/wiki/jeszcze
-62,nas,pronoun,,,,https://en.wiktionary.org/wiki/nas
-63,chcę,,,,,https://en.wiktionary.org/wiki/chc%C4%99
-64,mój,,,,,https://en.wiktionary.org/wiki/m%C3%B3j
-65,było,,,,,https://en.wiktionary.org/wiki/by%C5%82o
+62,nas,pronoun,us,,,https://en.wiktionary.org/wiki/nas
+63,chcę,,want,,,https://en.wiktionary.org/wiki/chc%C4%99
+64,mój,,my,,,https://en.wiktionary.org/wiki/m%C3%B3j
+65,było,,was,,,https://en.wiktionary.org/wiki/by%C5%82o
 66,no,interjection,"yeah, yep",,,https://en.wiktionary.org/wiki/no
 67,przez,preposition,across,,,https://en.wiktionary.org/wiki/przez
 68,by,particle,"; would, would've",,,https://en.wiktionary.org/wiki/by
-69,pani,noun,,,,https://en.wiktionary.org/wiki/pani
-70,ją,,,,,https://en.wiktionary.org/wiki/j%C4%85
+69,pani,noun,madam,,,https://en.wiktionary.org/wiki/pani
+70,ją,,her,,,https://en.wiktionary.org/wiki/j%C4%85
 71,jego,pronoun,his:,,,https://en.wiktionary.org/wiki/jego
 72,ich,pronoun,"possessive pronoun for or , namely their or theirs",,,https://en.wiktionary.org/wiki/ich
 73,dlaczego,pronoun,why,,,https://en.wiktionary.org/wiki/dlaczego
-74,chcesz,verb,,,,https://en.wiktionary.org/wiki/chcesz
-75,żeby,,,,,https://en.wiktionary.org/wiki/%C5%BCeby
+74,chcesz,verb,want,,,https://en.wiktionary.org/wiki/chcesz
+75,żeby,,that,,,https://en.wiktionary.org/wiki/%C5%BCeby
 76,tutaj,adverb,here,,,https://en.wiktionary.org/wiki/tutaj
-77,mamy,verb,,,,https://en.wiktionary.org/wiki/mamy
-78,też,,,,,https://en.wiktionary.org/wiki/te%C5%BC
+77,mamy,verb,have,,,https://en.wiktionary.org/wiki/mamy
+78,też,,also,,,https://en.wiktionary.org/wiki/te%C5%BC
 79,bo,conjunction,"because, for",,,https://en.wiktionary.org/wiki/bo
 80,dobra,particle,; alright,,,https://en.wiktionary.org/wiki/dobra
 81,kto,pronoun,who,,,https://en.wiktionary.org/wiki/kto
 82,nigdy,adverb,never,,,https://en.wiktionary.org/wiki/nigdy
 83,przepraszam,interjection,"sorry; I'm sorry, excuse me",,,https://en.wiktionary.org/wiki/przepraszam
 84,mu,interjection,moo,,,https://en.wiktionary.org/wiki/mu
-85,naprawdę,,,,,https://en.wiktionary.org/wiki/naprawd%C4%99
-86,możesz,,,,,https://en.wiktionary.org/wiki/mo%C5%BCesz
+85,naprawdę,,really,,,https://en.wiktionary.org/wiki/naprawd%C4%99
+86,możesz,,can,,,https://en.wiktionary.org/wiki/mo%C5%BCesz
 87,chyba,particle,"; probably; I think, I guess",,,https://en.wiktionary.org/wiki/chyba
-88,porządku,,,,,https://en.wiktionary.org/wiki/porz%C4%85dku
-89,dziękuję,,,,,https://en.wiktionary.org/wiki/dzi%C4%99kuj%C4%99
-90,muszę,,,,,https://en.wiktionary.org/wiki/musz%C4%99
-91,panie,pronoun,,,,https://en.wiktionary.org/wiki/panie
-92,właśnie,,,,,https://en.wiktionary.org/wiki/w%C5%82a%C5%9Bnie
+88,porządku,,order,,,https://en.wiktionary.org/wiki/porz%C4%85dku
+89,dziękuję,,thank you,,,https://en.wiktionary.org/wiki/dzi%C4%99kuj%C4%99
+90,muszę,,must,,,https://en.wiktionary.org/wiki/musz%C4%99
+91,panie,pronoun,sir,,,https://en.wiktionary.org/wiki/panie
+92,właśnie,,just,,,https://en.wiktionary.org/wiki/w%C5%82a%C5%9Bnie
 93,ona,pronoun,"she (for animate nouns), it (for inanimate feminine nouns)",,,https://en.wiktionary.org/wiki/ona
-94,domu,noun,,,,https://en.wiktionary.org/wiki/domu
-95,zrobić,,,,,https://en.wiktionary.org/wiki/zrobi%C4%87
+94,domu,noun,home,,,https://en.wiktionary.org/wiki/domu
+95,zrobić,,do,,,https://en.wiktionary.org/wiki/zrobi%C4%87
 96,nawet,particle,even,,,https://en.wiktionary.org/wiki/nawet
 97,gdy,conjunction,"when, as",,,https://en.wiktionary.org/wiki/gdy
 98,prawda,noun,truth,,,https://en.wiktionary.org/wiki/prawda
-99,te,pronoun,,,,https://en.wiktionary.org/wiki/te
-100,nam,pronoun,,,,https://en.wiktionary.org/wiki/nam
-101,będę,,,,,https://en.wiktionary.org/wiki/b%C4%99d%C4%99
+99,te,pronoun,these,,,https://en.wiktionary.org/wiki/te
+100,nam,pronoun,to us,,,https://en.wiktionary.org/wiki/nam
+101,będę,verb,I will be,,,https://en.wiktionary.org/wiki/b%C4%99d%C4%99
 102,zawsze,adverb,always,,,https://en.wiktionary.org/wiki/zawsze
 103,bez,noun,elder,,,https://en.wiktionary.org/wiki/bez
 104,nim,conjunction,before,,,https://en.wiktionary.org/wiki/nim
-105,je,pronoun,,,,https://en.wiktionary.org/wiki/je
-106,była,,,,,https://en.wiktionary.org/wiki/by%C5%82a
-107,jesteśmy,,,,,https://en.wiktionary.org/wiki/jeste%C5%9Bmy
-108,dzięki,,,,,https://en.wiktionary.org/wiki/dzi%C4%99ki
-109,tej,pronoun,,,,https://en.wiktionary.org/wiki/tej
+105,je,pronoun,it / them,,,https://en.wiktionary.org/wiki/je
+106,była,verb,was,,,https://en.wiktionary.org/wiki/by%C5%82a
+107,jesteśmy,verb,we are,,,https://en.wiktionary.org/wiki/jeste%C5%9Bmy
+108,dzięki,noun,thanks,,,https://en.wiktionary.org/wiki/dzi%C4%99ki
+109,tej,pronoun,this (fem.),,,https://en.wiktionary.org/wiki/tej
 110,moja,noun,;,,,https://en.wiktionary.org/wiki/moja
-111,trochę,,,,,https://en.wiktionary.org/wiki/troch%C4%99
-112,ktoś,,,,,https://en.wiktionary.org/wiki/kto%C5%9B
-113,musisz,verb,,,,https://en.wiktionary.org/wiki/musisz
-114,cześć,,,,,https://en.wiktionary.org/wiki/cze%C5%9B%C4%87
+111,trochę,adverb,a little,,,https://en.wiktionary.org/wiki/troch%C4%99
+112,ktoś,pronoun,someone,,,https://en.wiktionary.org/wiki/kto%C5%9B
+113,musisz,verb,you must,,,https://en.wiktionary.org/wiki/musisz
+114,cześć,interjection,hi / hello,,,https://en.wiktionary.org/wiki/cze%C5%9B%C4%87
 115,hej,interjection,hey,,,https://en.wiktionary.org/wiki/hej
-116,lat,noun,,,,https://en.wiktionary.org/wiki/lat
-117,moje,pronoun,,,,https://en.wiktionary.org/wiki/moje
+116,lat,noun,years,,,https://en.wiktionary.org/wiki/lat
+117,moje,pronoun,my / mine,,,https://en.wiktionary.org/wiki/moje
 118,pana,noun,flat tire,,,https://en.wiktionary.org/wiki/pana
-119,musimy,verb,,,,https://en.wiktionary.org/wiki/musimy
-120,dalej,adverb,,,,https://en.wiktionary.org/wiki/dalej
-121,twój,,,,,https://en.wiktionary.org/wiki/tw%C3%B3j
+119,musimy,verb,we must,,,https://en.wiktionary.org/wiki/musimy
+120,dalej,adverb,further,,,https://en.wiktionary.org/wiki/dalej
+121,twój,pronoun,your,,,https://en.wiktionary.org/wiki/tw%C3%B3j
 122,wszyscy,pronoun,all,,,https://en.wiktionary.org/wiki/wszyscy
 123,czas,noun,time,,,https://en.wiktionary.org/wiki/czas
-124,chce,verb,,,,https://en.wiktionary.org/wiki/chce
-125,który,,,,,https://en.wiktionary.org/wiki/kt%C3%B3ry
-126,więcej,,,,,https://en.wiktionary.org/wiki/wi%C4%99cej
-127,tobą,,,,,https://en.wiktionary.org/wiki/tob%C4%85
-128,boże,,,,,https://en.wiktionary.org/wiki/bo%C5%BCe
-129,powiedzieć,,,,,https://en.wiktionary.org/wiki/powiedzie%C4%87
+124,chce,verb,wants,,,https://en.wiktionary.org/wiki/chce
+125,który,pronoun,which,,,https://en.wiktionary.org/wiki/kt%C3%B3ry
+126,więcej,adverb,more,,,https://en.wiktionary.org/wiki/wi%C4%99cej
+127,tobą,pronoun,you (instr.),,,https://en.wiktionary.org/wiki/tob%C4%85
+128,boże,interjection,oh God,,,https://en.wiktionary.org/wiki/bo%C5%BCe
+129,powiedzieć,verb,to say / tell,,,https://en.wiktionary.org/wiki/powiedzie%C4%87
 130,sam,adjective,alone,,,https://en.wiktionary.org/wiki/sam
-131,chodzi,verb,,,,https://en.wiktionary.org/wiki/chodzi
-132,czego,pronoun,,,,https://en.wiktionary.org/wiki/czego
+131,chodzi,verb,goes / walks,,,https://en.wiktionary.org/wiki/chodzi
+132,czego,pronoun,what,,,https://en.wiktionary.org/wiki/czego
 133,ta,pronoun,this,,,https://en.wiktionary.org/wiki/ta
-134,możemy,,,,,https://en.wiktionary.org/wiki/mo%C5%BCemy
+134,możemy,verb,we can,,,https://en.wiktionary.org/wiki/mo%C5%BCemy
 135,albo,conjunction,or,,,https://en.wiktionary.org/wiki/albo
-136,mną,,,,,https://en.wiktionary.org/wiki/mn%C4%85
+136,mną,pronoun,me (instr.),,,https://en.wiktionary.org/wiki/mn%C4%85
 137,razem,adverb,together,,,https://en.wiktionary.org/wiki/razem
 138,niech,particle,"; let, may",,,https://en.wiktionary.org/wiki/niech
 139,dobry,adjective,good,,,https://en.wiktionary.org/wiki/dobry
 140,raz,noun,time,,,https://en.wiktionary.org/wiki/raz
-141,stało,,,,,https://en.wiktionary.org/wiki/sta%C5%82o
-142,was,pronoun,,,,https://en.wiktionary.org/wiki/was
-143,czym,pronoun,,,,https://en.wiktionary.org/wiki/czym
-144,prostu,noun,,,,https://en.wiktionary.org/wiki/prostu
-145,będziesz,,,,,https://en.wiktionary.org/wiki/b%C4%99dziesz
-146,chodź,,,,,https://en.wiktionary.org/wiki/chod%C5%BA
+141,stało,verb,happened,,,https://en.wiktionary.org/wiki/sta%C5%82o
+142,was,pronoun,you (pl.),,,https://en.wiktionary.org/wiki/was
+143,czym,pronoun,what / with what,,,https://en.wiktionary.org/wiki/czym
+144,prostu,noun,simply,,,https://en.wiktionary.org/wiki/prostu
+145,będziesz,verb,you will be,,,https://en.wiktionary.org/wiki/b%C4%99dziesz
+146,chodź,interjection,come on,,,https://en.wiktionary.org/wiki/chod%C5%BA
 147,czemu,pronoun,why,,,https://en.wiktionary.org/wiki/czemu
 148,przed,preposition,"; before, in front of; ahead of",,,https://en.wiktionary.org/wiki/przed
-149,ludzi,noun,,,,https://en.wiktionary.org/wiki/ludzi
-150,daj,verb,,,,https://en.wiktionary.org/wiki/daj
+149,ludzi,noun,people,,,https://en.wiktionary.org/wiki/ludzi
+150,daj,verb,give,,,https://en.wiktionary.org/wiki/daj
 151,ludzie,noun,; people,,,https://en.wiktionary.org/wiki/ludzie
 152,dzień,,,,,https://en.wiktionary.org/wiki/dzie%C5%84
 153,przy,preposition,"by, at, next to, near",,,https://en.wiktionary.org/wiki/przy
@@ -998,7 +998,7 @@ rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,sou
 997,prawdziwy,adjective,true,,,https://en.wiktionary.org/wiki/prawdziwy
 998,czyż,,,,,https://en.wiktionary.org/wiki/czy%C5%BC
 999,następny,,,,,https://en.wiktionary.org/wiki/nast%C4%99pny
-1000,proste,adjective,,,,https://en.wiktionary.org/wiki/proste
+1000,proste,adjective,simple,,,https://en.wiktionary.org/wiki/proste
 1001,rodzinę,,,,,https://en.wiktionary.org/wiki/rodzin%C4%99
 1002,uważasz,,,,,https://en.wiktionary.org/wiki/uwa%C5%BCasz
 1003,córka,,,,,https://en.wiktionary.org/wiki/c%C3%B3rka
@@ -2360,55 +2360,55 @@ rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,sou
 2359,niedobrze,adverb,"bad, badly, wrong, wrongly",,,https://en.wiktionary.org/wiki/niedobrze
 2360,udowodnić,,,,,https://en.wiktionary.org/wiki/udowodni%C4%87
 2361,walter,,,,,https://en.wiktionary.org/wiki/walter
-2362,zabija,verb,,,,https://en.wiktionary.org/wiki/zabija
-2363,kurde,interjection,,,,https://en.wiktionary.org/wiki/kurde
-2364,planety,noun,,,,https://en.wiktionary.org/wiki/planety
+2362,zabija,verb,kills,,,https://en.wiktionary.org/wiki/zabija
+2363,kurde,interjection,damn,,,https://en.wiktionary.org/wiki/kurde
+2364,planety,noun,planets,,,https://en.wiktionary.org/wiki/planety
 2365,proces,noun,process,,,https://en.wiktionary.org/wiki/proces
-2366,zejdź,,,,,https://en.wiktionary.org/wiki/zejd%C5%BA
-2367,okoliczności,,,,,https://en.wiktionary.org/wiki/okoliczno%C5%9Bci
-2368,zmienił,,,,,https://en.wiktionary.org/wiki/zmieni%C5%82
+2366,zejdź,verb,come down,,,https://en.wiktionary.org/wiki/zejd%C5%BA
+2367,okoliczności,noun,circumstances,,,https://en.wiktionary.org/wiki/okoliczno%C5%9Bci
+2368,zmienił,verb,changed,,,https://en.wiktionary.org/wiki/zmieni%C5%82
 2369,książę,,,,,https://en.wiktionary.org/wiki/ksi%C4%85%C5%BC%C4%99
-2370,barze,noun,,,,https://en.wiktionary.org/wiki/barze
-2371,siostrę,,,,,https://en.wiktionary.org/wiki/siostr%C4%99
-2372,kościoła,,,,,https://en.wiktionary.org/wiki/ko%C5%9Bcio%C5%82a
+2370,barze,noun,bar,,,https://en.wiktionary.org/wiki/barze
+2371,siostrę,noun,sister,,,https://en.wiktionary.org/wiki/siostr%C4%99
+2372,kościoła,noun,church,,,https://en.wiktionary.org/wiki/ko%C5%9Bcio%C5%82a
 2373,spodnie,noun,"pants, trousers",,,https://en.wiktionary.org/wiki/spodnie
-2374,mieszkasz,verb,,,,https://en.wiktionary.org/wiki/mieszkasz
+2374,mieszkasz,verb,you live,,,https://en.wiktionary.org/wiki/mieszkasz
 2375,kwestia,noun,problem,,,https://en.wiktionary.org/wiki/kwestia
-2376,wyglądał,,,,,https://en.wiktionary.org/wiki/wygl%C4%85da%C5%82
-2377,anglii,,,,,https://en.wiktionary.org/wiki/anglii
-2378,patrzysz,verb,,,,https://en.wiktionary.org/wiki/patrzysz
-2379,bohaterem,noun,,,,https://en.wiktionary.org/wiki/bohaterem
-2380,sytuację,,,,,https://en.wiktionary.org/wiki/sytuacj%C4%99
-2381,wątpliwości,,,,,https://en.wiktionary.org/wiki/w%C4%85tpliwo%C5%9Bci
-2382,patrzy,verb,,,,https://en.wiktionary.org/wiki/patrzy
-2383,sądziłem,,,,,https://en.wiktionary.org/wiki/s%C4%85dzi%C5%82em
+2376,wyglądał,verb,looked; seemed,,,https://en.wiktionary.org/wiki/wygl%C4%85da%C5%82
+2377,anglii,noun,England,,,https://en.wiktionary.org/wiki/anglii
+2378,patrzysz,verb,you look,,,https://en.wiktionary.org/wiki/patrzysz
+2379,bohaterem,noun,hero,,,https://en.wiktionary.org/wiki/bohaterem
+2380,sytuację,noun,situation,,,https://en.wiktionary.org/wiki/sytuacj%C4%99
+2381,wątpliwości,noun,doubts,,,https://en.wiktionary.org/wiki/w%C4%85tpliwo%C5%9Bci
+2382,patrzy,verb,looks,,,https://en.wiktionary.org/wiki/patrzy
+2383,sądziłem,verb,I thought,,,https://en.wiktionary.org/wiki/s%C4%85dzi%C5%82em
 2384,niebo,noun,sky,,,https://en.wiktionary.org/wiki/niebo
-2385,niezbyt,particle,not too,,,https://en.wiktionary.org/wiki/niezbyt
-2386,sumie,noun,,,,https://en.wiktionary.org/wiki/sumie
-2387,ręka,,,,,https://en.wiktionary.org/wiki/r%C4%99ka
+2385,niezbyt,particle,not very,,,https://en.wiktionary.org/wiki/niezbyt
+2386,sumie,noun,catfish,,,https://en.wiktionary.org/wiki/sumie
+2387,ręka,noun,hand; arm,,,https://en.wiktionary.org/wiki/r%C4%99ka
 2388,pete,,,,,https://en.wiktionary.org/wiki/pete
-2389,zadzwonił,,,,,https://en.wiktionary.org/wiki/zadzwoni%C5%82
-2390,jenny,adjective,,,,https://en.wiktionary.org/wiki/jenny
-2391,dachu,noun,,,,https://en.wiktionary.org/wiki/dachu
-2392,powrót,,,,,https://en.wiktionary.org/wiki/powr%C3%B3t
-2393,słyszałaś,,,,,https://en.wiktionary.org/wiki/s%C5%82ysza%C5%82a%C5%9B
+2389,zadzwonił,verb,rang; called,,,https://en.wiktionary.org/wiki/zadzwoni%C5%82
+2390,jenny,adjective,different; other,,,https://en.wiktionary.org/wiki/jenny
+2391,dachu,noun,roof,,,https://en.wiktionary.org/wiki/dachu
+2392,powrót,noun,return,,,https://en.wiktionary.org/wiki/powr%C3%B3t
+2393,słyszałaś,verb,you heard,,,https://en.wiktionary.org/wiki/s%C5%82ysza%C5%82a%C5%9B
 2394,ledwo,adverb,"barely, hardly",,,https://en.wiktionary.org/wiki/ledwo
-2395,konieczne,,,,,https://en.wiktionary.org/wiki/konieczne
+2395,konieczne,adjective,necessary,,,https://en.wiktionary.org/wiki/konieczne
 2396,fps,,,,,https://en.wiktionary.org/wiki/fps
-2397,widzieliście,,,,,https://en.wiktionary.org/wiki/widzieli%C5%9Bcie
-2398,czyni,verb,,,,https://en.wiktionary.org/wiki/czyni
+2397,widzieliście,verb,you saw,,,https://en.wiktionary.org/wiki/widzieli%C5%9Bcie
+2398,czyni,verb,does; makes,,,https://en.wiktionary.org/wiki/czyni
 2399,zmiana,noun,"change, shift",,,https://en.wiktionary.org/wiki/zmiana
-2400,zadać,,,,,https://en.wiktionary.org/wiki/zada%C4%87
-2401,sukinsynu,noun,,,,https://en.wiktionary.org/wiki/sukinsynu
-2402,doprawdy,particle,"; really, verily, indeed",,,https://en.wiktionary.org/wiki/doprawdy
-2403,mogliśmy,,,,,https://en.wiktionary.org/wiki/mogli%C5%9Bmy
-2404,uczyć,,,,,https://en.wiktionary.org/wiki/uczy%C4%87
-2405,pragnę,,,,,https://en.wiktionary.org/wiki/pragn%C4%99
-2406,pogadamy,verb,,,,https://en.wiktionary.org/wiki/pogadamy
-2407,umie,verb,,,,https://en.wiktionary.org/wiki/umie
-2408,powinniście,,,,,https://en.wiktionary.org/wiki/powinni%C5%9Bcie
-2409,wróciła,,,,,https://en.wiktionary.org/wiki/wr%C3%B3ci%C5%82a
-2410,tysiąc,,,,,https://en.wiktionary.org/wiki/tysi%C4%85c
+2400,zadać,verb,to assign,,,https://en.wiktionary.org/wiki/zada%C4%87
+2401,sukinsynu,noun,son of a bitch,,,https://en.wiktionary.org/wiki/sukinsynu
+2402,doprawdy,particle,really; indeed,,,https://en.wiktionary.org/wiki/doprawdy
+2403,mogliśmy,verb,we could; were able to,,,https://en.wiktionary.org/wiki/mogli%C5%9Bmy
+2404,uczyć,verb,to teach,,,https://en.wiktionary.org/wiki/uczy%C4%87
+2405,pragnę,verb,I desire; I wish,,,https://en.wiktionary.org/wiki/pragn%C4%99
+2406,pogadamy,verb,we will talk; we will chat,,,https://en.wiktionary.org/wiki/pogadamy
+2407,umie,verb,can; knows how,,,https://en.wiktionary.org/wiki/umie
+2408,powinniście,verb,you should,,,https://en.wiktionary.org/wiki/powinni%C5%9Bcie
+2409,wróciła,verb,returned,,,https://en.wiktionary.org/wiki/wr%C3%B3ci%C5%82a
+2410,tysiąc,noun,thousand,,,https://en.wiktionary.org/wiki/tysi%C4%85c
 2411,byliście,,,,,https://en.wiktionary.org/wiki/byli%C5%9Bcie
 2412,normalne,,,,,https://en.wiktionary.org/wiki/normalne
 2413,przedstawić,,,,,https://en.wiktionary.org/wiki/przedstawi%C4%87
