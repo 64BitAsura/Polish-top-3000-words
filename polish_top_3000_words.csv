@@ -1,53 +1,53 @@
 rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,source_reference
 1,nie,particle,"; no, not",,,https://en.wiktionary.org/wiki/nie
 2,to,conjunction,be,,,https://en.wiktionary.org/wiki/to
-3,się,,,,,https://en.wiktionary.org/wiki/si%C4%99
+3,się,,reflexive particle; oneself,,,https://en.wiktionary.org/wiki/si%C4%99
 4,na,preposition,; on,,,https://en.wiktionary.org/wiki/na
 5,co,pronoun,; what,,,https://en.wiktionary.org/wiki/co
-6,że,,,,,https://en.wiktionary.org/wiki/%C5%BCe
+6,że,,that,,,https://en.wiktionary.org/wiki/%C5%BCe
 7,jest,verb,; is,,,https://en.wiktionary.org/wiki/jest
 8,do,preposition,"; to, toward",,,https://en.wiktionary.org/wiki/do
 9,tak,adverb,like this; so,,,https://en.wiktionary.org/wiki/tak
 10,jak,pronoun,how,,,https://en.wiktionary.org/wiki/jak
-11,mnie,pronoun,,,,https://en.wiktionary.org/wiki/mnie
+11,mnie,pronoun,me,,,https://en.wiktionary.org/wiki/mnie
 12,ale,conjunction,but,,,https://en.wiktionary.org/wiki/ale
-13,mi,pronoun,,,,https://en.wiktionary.org/wiki/mi
+13,mi,pronoun,to me,,,https://en.wiktionary.org/wiki/mi
 14,za,particle,"overly, excessively, too",,,https://en.wiktionary.org/wiki/za
 15,ja,pronoun,; I,,,https://en.wiktionary.org/wiki/ja
 16,ci,pronoun,.,,,https://en.wiktionary.org/wiki/ci
 17,tu,adverb,here,,,https://en.wiktionary.org/wiki/tu
-18,go,pronoun,,,,https://en.wiktionary.org/wiki/go
-19,tego,pronoun,,,,https://en.wiktionary.org/wiki/tego
+18,go,pronoun,him / it,,,https://en.wiktionary.org/wiki/go
+19,tego,pronoun,this / that,,,https://en.wiktionary.org/wiki/tego
 20,tym,particle,; the,,,https://en.wiktionary.org/wiki/tym
 21,ty,pronoun,you,,,https://en.wiktionary.org/wiki/ty
 22,czy,particle,; whether,,,https://en.wiktionary.org/wiki/czy
 23,tylko,conjunction,"except, only, just",,,https://en.wiktionary.org/wiki/tylko
 24,po,preposition,after,,,https://en.wiktionary.org/wiki/po
-25,jestem,verb,,,,https://en.wiktionary.org/wiki/jestem
-26,cię,,,,,https://en.wiktionary.org/wiki/ci%C4%99
-27,ma,verb,,,,https://en.wiktionary.org/wiki/ma
-28,może,,,,,https://en.wiktionary.org/wiki/mo%C5%BCe
-29,już,,,,,https://en.wiktionary.org/wiki/ju%C5%BC
-30,mam,verb,,,,https://en.wiktionary.org/wiki/mam
-31,jesteś,,,,,https://en.wiktionary.org/wiki/jeste%C5%9B
+25,jestem,verb,I am,,,https://en.wiktionary.org/wiki/jestem
+26,cię,,you,,,https://en.wiktionary.org/wiki/ci%C4%99
+27,ma,verb,has,,,https://en.wiktionary.org/wiki/ma
+28,może,,maybe / can,,,https://en.wiktionary.org/wiki/mo%C5%BCe
+29,już,,already,,,https://en.wiktionary.org/wiki/ju%C5%BC
+30,mam,verb,I have,,,https://en.wiktionary.org/wiki/mam
+31,jesteś,,you are,,,https://en.wiktionary.org/wiki/jeste%C5%9B
 32,pan,noun,"gentleman, man",,,https://en.wiktionary.org/wiki/pan
-33,coś,,,,,https://en.wiktionary.org/wiki/co%C5%9B
+33,coś,,something,,,https://en.wiktionary.org/wiki/co%C5%9B
 34,dla,preposition,for,,,https://en.wiktionary.org/wiki/dla
-35,wiem,verb,,,,https://en.wiktionary.org/wiki/wiem
+35,wiem,verb,I know,,,https://en.wiktionary.org/wiki/wiem
 36,dobrze,adverb,well,,,https://en.wiktionary.org/wiki/dobrze
-37,jeśli,,,,,https://en.wiktionary.org/wiki/je%C5%9Bli
+37,jeśli,,if,,,https://en.wiktionary.org/wiki/je%C5%9Bli
 38,od,preposition,"; from, away",,,https://en.wiktionary.org/wiki/od
 39,teraz,adverb,now,,,https://en.wiktionary.org/wiki/teraz
-40,proszę,,,,,https://en.wiktionary.org/wiki/prosz%C4%99
+40,proszę,,please,,,https://en.wiktionary.org/wiki/prosz%C4%99
 41,tam,adverb,there,,,https://en.wiktionary.org/wiki/tam
 42,wszystko,pronoun,everything,,,https://en.wiktionary.org/wiki/wszystko
 43,masz,interjection,here you are,,,https://en.wiktionary.org/wiki/masz
-44,więc,,,,,https://en.wiktionary.org/wiki/wi%C4%99c
+44,więc,,so,,,https://en.wiktionary.org/wiki/wi%C4%99c
 45,nic,pronoun,nothing,,,https://en.wiktionary.org/wiki/nic
-46,być,,,,,https://en.wiktionary.org/wiki/by%C4%87
-47,będzie,,,,,https://en.wiktionary.org/wiki/b%C4%99dzie
+46,być,,to be,,,https://en.wiktionary.org/wiki/by%C4%87
+47,będzie,,will be,,,https://en.wiktionary.org/wiki/b%C4%99dzie
 48,gdzie,adverb,where,,,https://en.wiktionary.org/wiki/gdzie
-49,są,,,,,https://en.wiktionary.org/wiki/s%C4%85
+49,są,,are,,,https://en.wiktionary.org/wiki/s%C4%85
 50,on,pronoun,"he , it",,,https://en.wiktionary.org/wiki/on
 51,mogę,,,,,https://en.wiktionary.org/wiki/mog%C4%99
 52,ten,pronoun,this,,,https://en.wiktionary.org/wiki/ten
