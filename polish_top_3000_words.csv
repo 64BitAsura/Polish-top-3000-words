@@ -1,7 +1,7 @@
 rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,source_reference
 1,nie,particle,"; no, not",,,https://en.wiktionary.org/wiki/nie
 2,to,conjunction,be,,,https://en.wiktionary.org/wiki/to
-3,się,,reflexive particle; oneself,,,https://en.wiktionary.org/wiki/si%C4%99
+3,się,,reflexive particle,,,https://en.wiktionary.org/wiki/si%C4%99
 4,na,preposition,; on,,,https://en.wiktionary.org/wiki/na
 5,co,pronoun,; what,,,https://en.wiktionary.org/wiki/co
 6,że,,that,,,https://en.wiktionary.org/wiki/%C5%BCe
