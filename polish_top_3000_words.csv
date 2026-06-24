@@ -122,7 +122,7 @@ rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,sou
 121,twój,pronoun,your,,,https://en.wiktionary.org/wiki/tw%C3%B3j
 122,wszyscy,pronoun,all,,,https://en.wiktionary.org/wiki/wszyscy
 123,czas,noun,time,,,https://en.wiktionary.org/wiki/czas
-124,chce,verb,,,,https://en.wiktionary.org/wiki/chce
+124,chce,verb,wants,,,https://en.wiktionary.org/wiki/chce
 125,który,pronoun,which,,,https://en.wiktionary.org/wiki/kt%C3%B3ry
 126,więcej,adverb,more,,,https://en.wiktionary.org/wiki/wi%C4%99cej
 127,tobą,pronoun,you (instr.),,,https://en.wiktionary.org/wiki/tob%C4%85
@@ -142,13 +142,13 @@ rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,sou
 141,stało,verb,happened,,,https://en.wiktionary.org/wiki/sta%C5%82o
 142,was,pronoun,you (pl.),,,https://en.wiktionary.org/wiki/was
 143,czym,pronoun,what / with what,,,https://en.wiktionary.org/wiki/czym
-144,prostu,noun,,,,https://en.wiktionary.org/wiki/prostu
+144,prostu,noun,simply,,,https://en.wiktionary.org/wiki/prostu
 145,będziesz,verb,you will be,,,https://en.wiktionary.org/wiki/b%C4%99dziesz
 146,chodź,interjection,come on,,,https://en.wiktionary.org/wiki/chod%C5%BA
 147,czemu,pronoun,why,,,https://en.wiktionary.org/wiki/czemu
 148,przed,preposition,"; before, in front of; ahead of",,,https://en.wiktionary.org/wiki/przed
 149,ludzi,noun,people,,,https://en.wiktionary.org/wiki/ludzi
-150,daj,verb,,,,https://en.wiktionary.org/wiki/daj
+150,daj,verb,give,,,https://en.wiktionary.org/wiki/daj
 151,ludzie,noun,; people,,,https://en.wiktionary.org/wiki/ludzie
 152,dzień,,,,,https://en.wiktionary.org/wiki/dzie%C5%84
 153,przy,preposition,"by, at, next to, near",,,https://en.wiktionary.org/wiki/przy
