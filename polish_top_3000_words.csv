@@ -150,334 +150,334 @@ rank,word,part_of_speech,meaning,sentence_example_polish,english_translation,sou
 149,ludzi,noun,people,,,https://en.wiktionary.org/wiki/ludzi
 150,daj,verb,give,,,https://en.wiktionary.org/wiki/daj
 151,ludzie,noun,; people,,,https://en.wiktionary.org/wiki/ludzie
-152,dzień,,,,,https://en.wiktionary.org/wiki/dzie%C5%84
+152,dzień,,day,,,https://en.wiktionary.org/wiki/dzie%C5%84
 153,przy,preposition,"by, at, next to, near",,,https://en.wiktionary.org/wiki/przy
-154,życie,,,,,https://en.wiktionary.org/wiki/%C5%BCycie
-155,niż,,,,,https://en.wiktionary.org/wiki/ni%C5%BC
-156,robisz,verb,,,,https://en.wiktionary.org/wiki/robisz
-157,myślę,,,,,https://en.wiktionary.org/wiki/my%C5%9Bl%C4%99
-158,lepiej,adverb,,,,https://en.wiktionary.org/wiki/lepiej
-159,kim,pronoun,,,,https://en.wiktionary.org/wiki/kim
-160,myślisz,,,,,https://en.wiktionary.org/wiki/my%C5%9Blisz
-161,miał,,,,,https://en.wiktionary.org/wiki/mia%C5%82
+154,życie,,life,,,https://en.wiktionary.org/wiki/%C5%BCycie
+155,niż,,than,,,https://en.wiktionary.org/wiki/ni%C5%BC
+156,robisz,verb,you do; you are doing,,,https://en.wiktionary.org/wiki/robisz
+157,myślę,,I think,,,https://en.wiktionary.org/wiki/my%C5%9Bl%C4%99
+158,lepiej,adverb,better,,,https://en.wiktionary.org/wiki/lepiej
+159,kim,pronoun,who (instrumental of kto),,,https://en.wiktionary.org/wiki/kim
+160,myślisz,,you think,,,https://en.wiktionary.org/wiki/my%C5%9Blisz
+161,miał,,he had,,,https://en.wiktionary.org/wiki/mia%C5%82
 162,my,pronoun,we;,,,https://en.wiktionary.org/wiki/my
 163,nikt,pronoun,"no one, nobody",,,https://en.wiktionary.org/wiki/nikt
-164,czasu,noun,,,,https://en.wiktionary.org/wiki/czasu
-165,powiedz,verb,,,,https://en.wiktionary.org/wiki/powiedz
-166,rzeczy,noun,,,,https://en.wiktionary.org/wiki/rzeczy
-167,twoja,pronoun,,,,https://en.wiktionary.org/wiki/twoja
-168,tych,pronoun,,,,https://en.wiktionary.org/wiki/tych
-169,stąd,,,,,https://en.wiktionary.org/wiki/st%C4%85d
-170,niego,pronoun,,,,https://en.wiktionary.org/wiki/niego
-171,mówi,,,,,https://en.wiktionary.org/wiki/m%C3%B3wi
-172,im,conjunction,,,,https://en.wiktionary.org/wiki/im
+164,czasu,noun,time (genitive),,,https://en.wiktionary.org/wiki/czasu
+165,powiedz,verb,say; tell (imperative),,,https://en.wiktionary.org/wiki/powiedz
+166,rzeczy,noun,things,,,https://en.wiktionary.org/wiki/rzeczy
+167,twoja,pronoun,your (feminine),,,https://en.wiktionary.org/wiki/twoja
+168,tych,pronoun,these; those (genitive/plural),,,https://en.wiktionary.org/wiki/tych
+169,stąd,,from here; hence,,,https://en.wiktionary.org/wiki/st%C4%85d
+170,niego,pronoun,him; of him (genitive/accusative),,,https://en.wiktionary.org/wiki/niego
+171,mówi,,he/she says,,,https://en.wiktionary.org/wiki/m%C3%B3wi
+172,im,conjunction,the more; to them,,,https://en.wiktionary.org/wiki/im
 173,temu,pronoun,ago,,,https://en.wiktionary.org/wiki/temu
 174,jeden,numeral,one,,,https://en.wiktionary.org/wiki/jeden
 175,pod,preposition,"; under, underneath",,,https://en.wiktionary.org/wiki/pod
-176,musi,particle,,,,https://en.wiktionary.org/wiki/musi
-177,siebie,pronoun,,,,https://en.wiktionary.org/wiki/siebie
-178,twoje,pronoun,,,,https://en.wiktionary.org/wiki/twoje
-179,powiedział,,,,,https://en.wiktionary.org/wiki/powiedzia%C5%82
-180,oczywiście,,,,,https://en.wiktionary.org/wiki/oczywi%C5%9Bcie
-181,ok,noun,,,,https://en.wiktionary.org/wiki/ok
-182,moim,pronoun,,,,https://en.wiktionary.org/wiki/moim
+176,musi,particle,must; has to,,,https://en.wiktionary.org/wiki/musi
+177,siebie,pronoun,oneself; yourself,,,https://en.wiktionary.org/wiki/siebie
+178,twoje,pronoun,your (neuter/plural),,,https://en.wiktionary.org/wiki/twoje
+179,powiedział,,he said,,,https://en.wiktionary.org/wiki/powiedzia%C5%82
+180,oczywiście,,of course; obviously,,,https://en.wiktionary.org/wiki/oczywi%C5%9Bcie
+181,ok,noun,ok; okay,,,https://en.wiktionary.org/wiki/ok
+182,moim,pronoun,my (locative masculine/neuter),,,https://en.wiktionary.org/wiki/moim
 183,oni,pronoun,they,,,https://en.wiktionary.org/wiki/oni
 184,dwa,numeral,two,,,https://en.wiktionary.org/wiki/dwa
-185,które,,,,,https://en.wiktionary.org/wiki/kt%C3%B3re
+185,które,,which; that (neuter/plural),,,https://en.wiktionary.org/wiki/kt%C3%B3re
 186,pewnie,adverb,"surely, certainly",,,https://en.wiktionary.org/wiki/pewnie
-187,dziś,,,,,https://en.wiktionary.org/wiki/dzi%C5%9B
+187,dziś,,today,,,https://en.wiktionary.org/wiki/dzi%C5%9B
 188,kurwa,noun,"prostitute, whore",,,https://en.wiktionary.org/wiki/kurwa
-189,wie,verb,,,,https://en.wiktionary.org/wiki/wie
+189,wie,verb,he/she knows,,,https://en.wiktionary.org/wiki/wie
 190,taki,pronoun,such,,,https://en.wiktionary.org/wiki/taki
 191,aby,conjunction,"to, in order to, so that",,,https://en.wiktionary.org/wiki/aby
-192,skąd,,,,,https://en.wiktionary.org/wiki/sk%C4%85d
-193,cholera,noun,,,,https://en.wiktionary.org/wiki/cholera
+192,skąd,,where from; how do you know,,,https://en.wiktionary.org/wiki/sk%C4%85d
+193,cholera,noun,damn; hell (expletive),,,https://en.wiktionary.org/wiki/cholera
 194,dzieje,noun,history,,,https://en.wiktionary.org/wiki/dzieje
-195,wygląda,,,,,https://en.wiktionary.org/wiki/wygl%C4%85da
+195,wygląda,,it looks; appears,,,https://en.wiktionary.org/wiki/wygl%C4%85da
 196,wtedy,adverb,"back then, then",,,https://en.wiktionary.org/wiki/wtedy
-197,mojego,pronoun,,,,https://en.wiktionary.org/wiki/mojego
-198,takie,pronoun,,,,https://en.wiktionary.org/wiki/takie
+197,mojego,pronoun,my (genitive masculine),,,https://en.wiktionary.org/wiki/mojego
+198,takie,pronoun,such; like this (neuter/plural),,,https://en.wiktionary.org/wiki/takie
 199,ile,pronoun,"; how much, how many",,,https://en.wiktionary.org/wiki/ile
 200,wszystkie,pronoun,"everybody, everyone",,,https://en.wiktionary.org/wiki/wszystkie
-201,mieć,,,,,https://en.wiktionary.org/wiki/mie%C4%87
+201,mieć,,to have,,,https://en.wiktionary.org/wiki/mie%C4%87
 202,dlatego,particle,that's why,,,https://en.wiktionary.org/wiki/dlatego
 203,znaczy,particle,"in other words, namely, that is, that is to say",,,https://en.wiktionary.org/wiki/znaczy
-204,będziemy,,,,,https://en.wiktionary.org/wiki/b%C4%99dziemy
+204,będziemy,,we will be; we will,,,https://en.wiktionary.org/wiki/b%C4%99dziemy
 205,potem,adverb,"then, later, afterwards",,,https://en.wiktionary.org/wiki/potem
 206,jasne,interjection,"of course, naturally, sure, sure thing",,,https://en.wiktionary.org/wiki/jasne
-207,iść,,,,,https://en.wiktionary.org/wiki/i%C5%9B%C4%87
-208,dużo,,,,,https://en.wiktionary.org/wiki/du%C5%BCo
-209,cóż,,,,,https://en.wiktionary.org/wiki/c%C3%B3%C5%BC
-210,tę,,,,,https://en.wiktionary.org/wiki/t%C4%99
-211,byłem,,,,,https://en.wiktionary.org/wiki/by%C5%82em
-212,rozumiem,verb,,,,https://en.wiktionary.org/wiki/rozumiem
-213,wam,pronoun,,,,https://en.wiktionary.org/wiki/wam
+207,iść,,to go,,,https://en.wiktionary.org/wiki/i%C5%9B%C4%87
+208,dużo,,a lot; much; many,,,https://en.wiktionary.org/wiki/du%C5%BCo
+209,cóż,,well; so (interjection),,,https://en.wiktionary.org/wiki/c%C3%B3%C5%BC
+210,tę,,this (feminine accusative),,,https://en.wiktionary.org/wiki/t%C4%99
+211,byłem,,I was (masculine),,,https://en.wiktionary.org/wiki/by%C5%82em
+212,rozumiem,verb,I understand,,,https://en.wiktionary.org/wiki/rozumiem
+213,wam,pronoun,to you (plural dative),,,https://en.wiktionary.org/wiki/wam
 214,miejsce,noun,"place, room, space",,,https://en.wiktionary.org/wiki/miejsce
-215,cały,,,,,https://en.wiktionary.org/wiki/ca%C5%82y
+215,cały,,whole; entire,,,https://en.wiktionary.org/wiki/ca%C5%82y
 216,trzeba,verb,"; it is needed, one ought to",,,https://en.wiktionary.org/wiki/trzeba
-217,moją,,,,,https://en.wiktionary.org/wiki/moj%C4%85
-218,można,,,,,https://en.wiktionary.org/wiki/mo%C5%BCna
-219,pomóc,,,,,https://en.wiktionary.org/wiki/pom%C3%B3c
+217,moją,,my (feminine accusative),,,https://en.wiktionary.org/wiki/moj%C4%85
+218,można,,one can; it is possible,,,https://en.wiktionary.org/wiki/mo%C5%BCna
+219,pomóc,,to help,,,https://en.wiktionary.org/wiki/pom%C3%B3c
 220,jako,preposition,as,,,https://en.wiktionary.org/wiki/jako
-221,nich,pronoun,,,,https://en.wiktionary.org/wiki/nich
+221,nich,pronoun,them (genitive/locative plural),,,https://en.wiktionary.org/wiki/nich
 222,szybko,adverb,"quickly, rapidly, fast, swiftly",,,https://en.wiktionary.org/wiki/szybko
-223,jakiś,,,,,https://en.wiktionary.org/wiki/jaki%C5%9B
-224,mojej,pronoun,,,,https://en.wiktionary.org/wiki/mojej
-225,nią,,,,,https://en.wiktionary.org/wiki/ni%C4%85
-226,mają,,,,,https://en.wiktionary.org/wiki/maj%C4%85
-227,wszystkich,pronoun,,,,https://en.wiktionary.org/wiki/wszystkich
-228,jakieś,,,,,https://en.wiktionary.org/wiki/jakie%C5%9B
-229,wiedzieć,,,,,https://en.wiktionary.org/wiki/wiedzie%C4%87
-230,swoje,pronoun,,,,https://en.wiktionary.org/wiki/swoje
+223,jakiś,,some; a certain (masculine),,,https://en.wiktionary.org/wiki/jaki%C5%9B
+224,mojej,pronoun,my (feminine genitive/dative/locative),,,https://en.wiktionary.org/wiki/mojej
+225,nią,,her; it (feminine instrumental),,,https://en.wiktionary.org/wiki/ni%C4%85
+226,mają,,they have,,,https://en.wiktionary.org/wiki/maj%C4%85
+227,wszystkich,pronoun,all; everyone (genitive/plural),,,https://en.wiktionary.org/wiki/wszystkich
+228,jakieś,,some; a few (neuter/plural),,,https://en.wiktionary.org/wiki/jakie%C5%9B
+229,wiedzieć,,to know,,,https://en.wiktionary.org/wiki/wiedzie%C4%87
+230,swoje,pronoun,one's own (neuter/plural),,,https://en.wiktionary.org/wiki/swoje
 231,przykro,adverb,sorry,,,https://en.wiktionary.org/wiki/przykro
 232,stary,adjective,old,,,https://en.wiktionary.org/wiki/stary
 233,zaraz,adverb,"at once, immediately",,,https://en.wiktionary.org/wiki/zaraz
-234,myśli,,,,,https://en.wiktionary.org/wiki/my%C5%9Bli
-235,dzieci,noun,,,,https://en.wiktionary.org/wiki/dzieci
+234,myśli,,thoughts; he/she thinks,,,https://en.wiktionary.org/wiki/my%C5%9Bli
+235,dzieci,noun,children,,,https://en.wiktionary.org/wiki/dzieci
 236,nad,preposition,"; above, over",,,https://en.wiktionary.org/wiki/nad
 237,wiele,numeral,"many, much",,,https://en.wiktionary.org/wiki/wiele
 238,kochanie,noun,"love, honey, darling, sweetheart",,,https://en.wiktionary.org/wiki/kochanie
 239,kilka,determiner,more than two but less than ten ; several; few,,,https://en.wiktionary.org/wiki/kilka
-240,mówię,,,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C4%99
-241,mówisz,,,,,https://en.wiktionary.org/wiki/m%C3%B3wisz
+240,mówię,,I say; I am saying,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C4%99
+241,mówisz,,you say; you are saying,,,https://en.wiktionary.org/wiki/m%C3%B3wisz
 242,zanim,conjunction,before,,,https://en.wiktionary.org/wiki/zanim
-243,miałem,,,,,https://en.wiktionary.org/wiki/mia%C5%82em
-244,kocham,verb,,,,https://en.wiktionary.org/wiki/kocham
-245,świetnie,,,,,https://en.wiktionary.org/wiki/%C5%9Bwietnie
-246,tobie,pronoun,,,,https://en.wiktionary.org/wiki/tobie
-247,takiego,pronoun,,,,https://en.wiktionary.org/wiki/takiego
+243,miałem,,I had (masculine),,,https://en.wiktionary.org/wiki/mia%C5%82em
+244,kocham,verb,I love,,,https://en.wiktionary.org/wiki/kocham
+245,świetnie,,great; excellent,,,https://en.wiktionary.org/wiki/%C5%9Bwietnie
+246,tobie,pronoun,to you; for you (dative),,,https://en.wiktionary.org/wiki/tobie
+247,takiego,pronoun,such; of this kind (genitive masculine),,,https://en.wiktionary.org/wiki/takiego
 248,tyle,numeral,"; this much, this many; as many as; as much as",,,https://en.wiktionary.org/wiki/tyle
-249,robić,,,,,https://en.wiktionary.org/wiki/robi%C4%87
+249,robić,,to do; to make,,,https://en.wiktionary.org/wiki/robi%C4%87
 250,trzy,numeral,three,,,https://en.wiktionary.org/wiki/trzy
-251,idź,,,,,https://en.wiktionary.org/wiki/id%C5%BA
-252,kogoś,,,,,https://en.wiktionary.org/wiki/kogo%C5%9B
+251,idź,,go (imperative),,,https://en.wiktionary.org/wiki/id%C5%BA
+252,kogoś,,someone; somebody (genitive/accusative),,,https://en.wiktionary.org/wiki/kogo%C5%9B
 253,ani,conjunction,"neither, nor, or",,,https://en.wiktionary.org/wiki/ani
 254,pewno,adverb,"absolutely, for certain, certainly, definitely, for sure",,,https://en.wiktionary.org/wiki/pewno
-255,myślałem,,,,,https://en.wiktionary.org/wiki/my%C5%9Bla%C5%82em
-256,widzisz,verb,,,,https://en.wiktionary.org/wiki/widzisz
-257,kiedyś,,,,,https://en.wiktionary.org/wiki/kiedy%C5%9B
-258,robi,verb,,,,https://en.wiktionary.org/wiki/robi
-259,widzę,,,,,https://en.wiktionary.org/wiki/widz%C4%99
+255,myślałem,,I thought (masculine),,,https://en.wiktionary.org/wiki/my%C5%9Bla%C5%82em
+256,widzisz,verb,you see; do you see,,,https://en.wiktionary.org/wiki/widzisz
+257,kiedyś,,once; sometime; ever,,,https://en.wiktionary.org/wiki/kiedy%C5%9B
+258,robi,verb,he/she does; makes,,,https://en.wiktionary.org/wiki/robi
+259,widzę,,I see,,,https://en.wiktionary.org/wiki/widz%C4%99
 260,jaki,pronoun,"; what, what... like",,,https://en.wiktionary.org/wiki/jaki
-261,niej,pronoun,,,,https://en.wiktionary.org/wiki/niej
+261,niej,pronoun,her; of her (genitive/locative feminine),,,https://en.wiktionary.org/wiki/niej
 262,ojciec,noun,father,,,https://en.wiktionary.org/wiki/ojciec
 263,zbyt,noun,sale,,,https://en.wiktionary.org/wiki/zbyt
-264,która,,,,,https://en.wiktionary.org/wiki/kt%C3%B3ra
-265,zobaczyć,,,,,https://en.wiktionary.org/wiki/zobaczy%C4%87
-266,przestań,,,,,https://en.wiktionary.org/wiki/przesta%C5%84
-267,sposób,,,,,https://en.wiktionary.org/wiki/spos%C3%B3b
-268,pracy,noun,,,,https://en.wiktionary.org/wiki/pracy
+264,która,,which; who (feminine nominative),,,https://en.wiktionary.org/wiki/kt%C3%B3ra
+265,zobaczyć,,to see; to look,,,https://en.wiktionary.org/wiki/zobaczy%C4%87
+266,przestań,,stop (imperative),,,https://en.wiktionary.org/wiki/przesta%C5%84
+267,sposób,,way; method,,,https://en.wiktionary.org/wiki/spos%C3%B3b
+268,pracy,noun,work; job (genitive),,,https://en.wiktionary.org/wiki/pracy
 269,dzisiaj,adverb,today,,,https://en.wiktionary.org/wiki/dzisiaj
-270,sie,noun,,,,https://en.wiktionary.org/wiki/sie
-271,później,,,,,https://en.wiktionary.org/wiki/p%C3%B3%C5%BAniej
-272,bardziej,adverb,,,,https://en.wiktionary.org/wiki/bardziej
-273,będą,,,,,https://en.wiktionary.org/wiki/b%C4%99d%C4%85
-274,aż,,,,,https://en.wiktionary.org/wiki/a%C5%BC
-275,życia,,,,,https://en.wiktionary.org/wiki/%C5%BCycia
+270,sie,noun,"oneself (reflexive, archaic/dialectal spelling)",,,https://en.wiktionary.org/wiki/sie
+271,później,,later; afterwards,,,https://en.wiktionary.org/wiki/p%C3%B3%C5%BAniej
+272,bardziej,adverb,more,,,https://en.wiktionary.org/wiki/bardziej
+273,będą,,they will be; they will,,,https://en.wiktionary.org/wiki/b%C4%99d%C4%85
+274,aż,,until; as far as; even,,,https://en.wiktionary.org/wiki/a%C5%BC
+275,życia,,life (genitive),,,https://en.wiktionary.org/wiki/%C5%BCycia
 276,jutro,noun,tomorrow,,,https://en.wiktionary.org/wiki/jutro
-277,tą,,,,,https://en.wiktionary.org/wiki/t%C4%85
-278,rację,,,,,https://en.wiktionary.org/wiki/racj%C4%99
-279,żebyś,,,,,https://en.wiktionary.org/wiki/%C5%BCeby%C5%9B
-280,długo,,,,,https://en.wiktionary.org/wiki/d%C5%82ugo
+277,tą,,this (feminine instrumental),,,https://en.wiktionary.org/wiki/t%C4%85
+278,rację,,right; to be right,,,https://en.wiktionary.org/wiki/racj%C4%99
+279,żebyś,,so that you (would),,,https://en.wiktionary.org/wiki/%C5%BCeby%C5%9B
+280,długo,,long; for a long time,,,https://en.wiktionary.org/wiki/d%C5%82ugo
 281,tato,noun,dad,,,https://en.wiktionary.org/wiki/tato
-282,każdy,,,,,https://en.wiktionary.org/wiki/ka%C5%BCdy
-283,twoim,pronoun,,,,https://en.wiktionary.org/wiki/twoim
-284,chciałem,,,,,https://en.wiktionary.org/wiki/chcia%C5%82em
-285,dni,noun,,,,https://en.wiktionary.org/wiki/dni
-286,twojej,pronoun,,,,https://en.wiktionary.org/wiki/twojej
-287,nadzieję,,,,,https://en.wiktionary.org/wiki/nadziej%C4%99
-288,stanie,noun,,,,https://en.wiktionary.org/wiki/stanie
+282,każdy,,everyone; each,,,https://en.wiktionary.org/wiki/ka%C5%BCdy
+283,twoim,pronoun,your (locative masculine/neuter),,,https://en.wiktionary.org/wiki/twoim
+284,chciałem,,I wanted (masculine),,,https://en.wiktionary.org/wiki/chcia%C5%82em
+285,dni,noun,days (genitive plural),,,https://en.wiktionary.org/wiki/dni
+286,twojej,pronoun,your (feminine genitive/dative/locative),,,https://en.wiktionary.org/wiki/twojej
+287,nadzieję,,hope (accusative),,,https://en.wiktionary.org/wiki/nadziej%C4%99
+288,stanie,noun,state; condition; will stand,,,https://en.wiktionary.org/wiki/stanie
 289,koniec,noun,"end, finish",,,https://en.wiktionary.org/wiki/koniec
-290,znam,verb,,,,https://en.wiktionary.org/wiki/znam
-291,mamo,noun,,,,https://en.wiktionary.org/wiki/mamo
-292,swoją,,,,,https://en.wiktionary.org/wiki/swoj%C4%85
-293,problem,noun,,,,https://en.wiktionary.org/wiki/problem
-294,żyje,,,,,https://en.wiktionary.org/wiki/%C5%BCyje
-295,potrzebuję,,,,,https://en.wiktionary.org/wiki/potrzebuj%C4%99
-296,widziałem,,,,,https://en.wiktionary.org/wiki/widzia%C5%82em
-297,spokój,,,,,https://en.wiktionary.org/wiki/spok%C3%B3j
-298,powiem,verb,,,,https://en.wiktionary.org/wiki/powiem
-299,minut,noun,,,,https://en.wiktionary.org/wiki/minut
-300,broń,,,,,https://en.wiktionary.org/wiki/bro%C5%84
-301,panu,noun,,,,https://en.wiktionary.org/wiki/panu
-302,mógł,,,,,https://en.wiktionary.org/wiki/m%C3%B3g%C5%82
-303,nami,pronoun,,,,https://en.wiktionary.org/wiki/nami
+290,znam,verb,I know (someone/something),,,https://en.wiktionary.org/wiki/znam
+291,mamo,noun,mom; mum (vocative),,,https://en.wiktionary.org/wiki/mamo
+292,swoją,,one's own (feminine accusative),,,https://en.wiktionary.org/wiki/swoj%C4%85
+293,problem,noun,problem,,,https://en.wiktionary.org/wiki/problem
+294,żyje,,he/she lives; is alive,,,https://en.wiktionary.org/wiki/%C5%BCyje
+295,potrzebuję,,I need,,,https://en.wiktionary.org/wiki/potrzebuj%C4%99
+296,widziałem,,I saw (masculine),,,https://en.wiktionary.org/wiki/widzia%C5%82em
+297,spokój,,peace; calm,,,https://en.wiktionary.org/wiki/spok%C3%B3j
+298,powiem,verb,I will say; I will tell,,,https://en.wiktionary.org/wiki/powiem
+299,minut,noun,minutes (genitive plural),,,https://en.wiktionary.org/wiki/minut
+300,broń,,weapon; gun; defend (imperative),,,https://en.wiktionary.org/wiki/bro%C5%84
+301,panu,noun,sir; mister (dative),,,https://en.wiktionary.org/wiki/panu
+302,mógł,,could; was able to (masculine),,,https://en.wiktionary.org/wiki/m%C3%B3g%C5%82
+303,nami,pronoun,with us (instrumental),,,https://en.wiktionary.org/wiki/nami
 304,wy,pronoun,; you,,,https://en.wiktionary.org/wiki/wy
-305,nocy,noun,,,,https://en.wiktionary.org/wiki/nocy
-306,wciąż,,,,,https://en.wiktionary.org/wiki/wci%C4%85%C5%BC
+305,nocy,noun,night (genitive/locative),,,https://en.wiktionary.org/wiki/nocy
+306,wciąż,,still; constantly,,,https://en.wiktionary.org/wiki/wci%C4%85%C5%BC
 307,znowu,adverb,"again, anew, once more",,,https://en.wiktionary.org/wiki/znowu
-308,pieniądze,,,,,https://en.wiktionary.org/wiki/pieni%C4%85dze
-309,imię,,,,,https://en.wiktionary.org/wiki/imi%C4%99
+308,pieniądze,,money,,,https://en.wiktionary.org/wiki/pieni%C4%85dze
+309,imię,,first name; given name,,,https://en.wiktionary.org/wiki/imi%C4%99
 310,dnia,adverb,during a day; daily,,,https://en.wiktionary.org/wiki/dnia
-311,zabić,,,,,https://en.wiktionary.org/wiki/zabi%C4%87
+311,zabić,,to kill,,,https://en.wiktionary.org/wiki/zabi%C4%87
 312,drzwi,noun,door,,,https://en.wiktionary.org/wiki/drzwi
 313,pierwszy,adjective,first,,,https://en.wiktionary.org/wiki/pierwszy
-314,taka,pronoun,,,,https://en.wiktionary.org/wiki/taka
+314,taka,pronoun,such; like this (feminine),,,https://en.wiktionary.org/wiki/taka
 315,nasz,pronoun,; our,,,https://en.wiktionary.org/wiki/nasz
-316,posłuchaj,,,,,https://en.wiktionary.org/wiki/pos%C5%82uchaj
-317,ponieważ,,,,,https://en.wiktionary.org/wiki/poniewa%C5%BC
-318,słuchaj,,,,,https://en.wiktionary.org/wiki/s%C5%82uchaj
-319,jakie,pronoun,,,,https://en.wiktionary.org/wiki/jakie
+316,posłuchaj,,listen (imperative),,,https://en.wiktionary.org/wiki/pos%C5%82uchaj
+317,ponieważ,,because,,,https://en.wiktionary.org/wiki/poniewa%C5%BC
+318,słuchaj,,listen (imperative),,,https://en.wiktionary.org/wiki/s%C5%82uchaj
+319,jakie,pronoun,what; which (neuter/plural),,,https://en.wiktionary.org/wiki/jakie
 320,gdyby,conjunction,; if,,,https://en.wiktionary.org/wiki/gdyby
-321,miło,,,,,https://en.wiktionary.org/wiki/mi%C5%82o
-322,spójrz,,,,,https://en.wiktionary.org/wiki/sp%C3%B3jrz
-323,chciałbym,,,,,https://en.wiktionary.org/wiki/chcia%C5%82bym
-324,sir,,,,,https://en.wiktionary.org/wiki/sir
-325,razie,noun,,,,https://en.wiktionary.org/wiki/razie
-326,nasze,pronoun,,,,https://en.wiktionary.org/wiki/nasze
-327,dokładnie,,,,,https://en.wiktionary.org/wiki/dok%C5%82adnie
-328,czuję,,,,,https://en.wiktionary.org/wiki/czuj%C4%99
-329,zrobił,,,,,https://en.wiktionary.org/wiki/zrobi%C5%82
+321,miło,,nice; pleasant,,,https://en.wiktionary.org/wiki/mi%C5%82o
+322,spójrz,,look (imperative),,,https://en.wiktionary.org/wiki/sp%C3%B3jrz
+323,chciałbym,,I would like (masculine),,,https://en.wiktionary.org/wiki/chcia%C5%82bym
+324,sir,,sir (borrowed from English),,,https://en.wiktionary.org/wiki/sir
+325,razie,noun,case; occasion,,,https://en.wiktionary.org/wiki/razie
+326,nasze,pronoun,our (neuter/plural),,,https://en.wiktionary.org/wiki/nasze
+327,dokładnie,,exactly; precisely,,,https://en.wiktionary.org/wiki/dok%C5%82adnie
+328,czuję,,I feel,,,https://en.wiktionary.org/wiki/czuj%C4%99
+329,zrobił,,he did; made,,,https://en.wiktionary.org/wiki/zrobi%C5%82
 330,dobre,noun,"good, goodness",,,https://en.wiktionary.org/wiki/dobre
-331,samo,adjective,,,,https://en.wiktionary.org/wiki/samo
+331,samo,adjective,itself; same (neuter),,,https://en.wiktionary.org/wiki/samo
 332,nadal,adverb,still,,,https://en.wiktionary.org/wiki/nadal
-333,człowiek,,,,,https://en.wiktionary.org/wiki/cz%C5%82owiek
-334,twoją,,,,,https://en.wiktionary.org/wiki/twoj%C4%85
-335,znaleźć,,,,,https://en.wiktionary.org/wiki/znale%C5%BA%C4%87
-336,chwilę,,,,,https://en.wiktionary.org/wiki/chwil%C4%99
-337,chciał,,,,,https://en.wiktionary.org/wiki/chcia%C5%82
+333,człowiek,,person; human being,,,https://en.wiktionary.org/wiki/cz%C5%82owiek
+334,twoją,,your (feminine accusative),,,https://en.wiktionary.org/wiki/twoj%C4%85
+335,znaleźć,,to find,,,https://en.wiktionary.org/wiki/znale%C5%BA%C4%87
+336,chwilę,,a moment; a while (accusative),,,https://en.wiktionary.org/wiki/chwil%C4%99
+337,chciał,,he wanted,,,https://en.wiktionary.org/wiki/chcia%C5%82
 338,kogo,pronoun,; whose,,,https://en.wiktionary.org/wiki/kogo
-339,zostać,,,,,https://en.wiktionary.org/wiki/zosta%C4%87
-340,czegoś,,,,,https://en.wiktionary.org/wiki/czego%C5%9B
-341,wszystkim,pronoun,,,,https://en.wiktionary.org/wiki/wszystkim
-342,został,,,,,https://en.wiktionary.org/wiki/zosta%C5%82
-343,roku,noun,,,,https://en.wiktionary.org/wiki/roku
-344,mówić,,,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C4%87
-345,jesteście,,,,,https://en.wiktionary.org/wiki/jeste%C5%9Bcie
+339,zostać,,to stay; to become,,,https://en.wiktionary.org/wiki/zosta%C4%87
+340,czegoś,,something (genitive),,,https://en.wiktionary.org/wiki/czego%C5%9B
+341,wszystkim,pronoun,everyone; everything (dative/instrumental),,,https://en.wiktionary.org/wiki/wszystkim
+342,został,,he became; stayed; remained,,,https://en.wiktionary.org/wiki/zosta%C5%82
+343,roku,noun,year (genitive),,,https://en.wiktionary.org/wiki/roku
+344,mówić,,to speak; to say,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C4%87
+345,jesteście,,you are (plural),,,https://en.wiktionary.org/wiki/jeste%C5%9Bcie
 346,facet,noun,"guy, fellow, chap",,,https://en.wiktionary.org/wiki/facet
-347,mów,,,,,https://en.wiktionary.org/wiki/m%C3%B3w
-348,powiedziałem,,,,,https://en.wiktionary.org/wiki/powiedzia%C5%82em
-349,były,,,,,https://en.wiktionary.org/wiki/by%C5%82y
-350,którzy,,,,,https://en.wiktionary.org/wiki/kt%C3%B3rzy
+347,mów,,say; speak (imperative),,,https://en.wiktionary.org/wiki/m%C3%B3w
+348,powiedziałem,,I said (masculine),,,https://en.wiktionary.org/wiki/powiedzia%C5%82em
+349,były,,they were (non-masculine personal),,,https://en.wiktionary.org/wiki/by%C5%82y
+350,którzy,,who; which (masculine plural),,,https://en.wiktionary.org/wiki/kt%C3%B3rzy
 351,dziecko,noun,child,,,https://en.wiktionary.org/wiki/dziecko
-352,idziemy,verb,,,,https://en.wiktionary.org/wiki/idziemy
-353,sama,adjective,,,,https://en.wiktionary.org/wiki/sama
-354,macie,verb,,,,https://en.wiktionary.org/wiki/macie
-355,mówiłem,,,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C5%82em
-356,we,preposition,,,,https://en.wiktionary.org/wiki/we
-357,napisy,noun,,,,https://en.wiktionary.org/wiki/napisy
-358,mogą,,,,,https://en.wiktionary.org/wiki/mog%C4%85
+352,idziemy,verb,we are going,,,https://en.wiktionary.org/wiki/idziemy
+353,sama,adjective,alone; herself (feminine),,,https://en.wiktionary.org/wiki/sama
+354,macie,verb,you have (plural),,,https://en.wiktionary.org/wiki/macie
+355,mówiłem,,I was saying; I said (masculine),,,https://en.wiktionary.org/wiki/m%C3%B3wi%C5%82em
+356,we,preposition,in (variant of w before consonant clusters),,,https://en.wiktionary.org/wiki/we
+357,napisy,noun,subtitles; captions,,,https://en.wiktionary.org/wiki/napisy
+358,mogą,,they can,,,https://en.wiktionary.org/wiki/mog%C4%85
 359,spokojnie,adverb,calmly,,,https://en.wiktionary.org/wiki/spokojnie
-360,sobą,,,,,https://en.wiktionary.org/wiki/sob%C4%85
-361,bym,conjunction,,,,https://en.wiktionary.org/wiki/bym
-362,miała,,,,,https://en.wiktionary.org/wiki/mia%C5%82a
-363,przecież,,,,,https://en.wiktionary.org/wiki/przecie%C5%BC
+360,sobą,,oneself; themselves (instrumental),,,https://en.wiktionary.org/wiki/sob%C4%85
+361,bym,conjunction,would (conditional particle),,,https://en.wiktionary.org/wiki/bym
+362,miała,,she had,,,https://en.wiktionary.org/wiki/mia%C5%82a
+363,przecież,,after all; but,,,https://en.wiktionary.org/wiki/przecie%C5%BC
 364,dom,noun,house,,,https://en.wiktionary.org/wiki/dom
 365,poza,preposition,"; beyond, out of, outside of",,,https://en.wiktionary.org/wiki/poza
-366,zamknij,verb,,,,https://en.wiktionary.org/wiki/zamknij
-367,byłeś,,,,,https://en.wiktionary.org/wiki/by%C5%82e%C5%9B
-368,lubię,,,,,https://en.wiktionary.org/wiki/lubi%C4%99
-369,oh,,,,,https://en.wiktionary.org/wiki/oh
-370,żadnych,,,,,https://en.wiktionary.org/wiki/%C5%BCadnych
+366,zamknij,verb,close; shut (imperative),,,https://en.wiktionary.org/wiki/zamknij
+367,byłeś,,you were (masculine),,,https://en.wiktionary.org/wiki/by%C5%82e%C5%9B
+368,lubię,,I like,,,https://en.wiktionary.org/wiki/lubi%C4%99
+369,oh,,oh (interjection),,,https://en.wiktionary.org/wiki/oh
+370,żadnych,,any; none (genitive plural),,,https://en.wiktionary.org/wiki/%C5%BCadnych
 371,pomocy,interjection,"help!, help me!",,,https://en.wiktionary.org/wiki/pomocy
 372,prawie,particle,almost,,,https://en.wiktionary.org/wiki/prawie
-373,gdzieś,,,,,https://en.wiktionary.org/wiki/gdzie%C5%9B
-374,porozmawiać,,,,,https://en.wiktionary.org/wiki/porozmawia%C4%87
-375,wcześniej,,,,,https://en.wiktionary.org/wiki/wcze%C5%9Bniej
+373,gdzieś,,somewhere,,,https://en.wiktionary.org/wiki/gdzie%C5%9B
+374,porozmawiać,,to talk; to have a conversation,,,https://en.wiktionary.org/wiki/porozmawia%C4%87
+375,wcześniej,,earlier; before,,,https://en.wiktionary.org/wiki/wcze%C5%9Bniej
 376,podoba,noun,"pattern, template",,,https://en.wiktionary.org/wiki/podoba
-377,zrobię,,,,,https://en.wiktionary.org/wiki/zrobi%C4%99
-378,czekaj,verb,,,,https://en.wiktionary.org/wiki/czekaj
-379,dość,,,,,https://en.wiktionary.org/wiki/do%C5%9B%C4%87
-380,twojego,pronoun,,,,https://en.wiktionary.org/wiki/twojego
+377,zrobię,,I will do; I will make,,,https://en.wiktionary.org/wiki/zrobi%C4%99
+378,czekaj,verb,wait (imperative),,,https://en.wiktionary.org/wiki/czekaj
+379,dość,,enough; quite,,,https://en.wiktionary.org/wiki/do%C5%9B%C4%87
+380,twojego,pronoun,your (masculine genitive),,,https://en.wiktionary.org/wiki/twojego
 381,lub,conjunction,"or, and/or",,,https://en.wiktionary.org/wiki/lub
-382,moich,pronoun,,,,https://en.wiktionary.org/wiki/moich
+382,moich,pronoun,my (genitive plural),,,https://en.wiktionary.org/wiki/moich
 383,razy,adverb,times,,,https://en.wiktionary.org/wiki/razy
-384,znasz,verb,,,,https://en.wiktionary.org/wiki/znasz
-385,mały,,,,,https://en.wiktionary.org/wiki/ma%C5%82y
-386,ciągle,,,,,https://en.wiktionary.org/wiki/ci%C4%85gle
+384,znasz,verb,you know (someone/something),,,https://en.wiktionary.org/wiki/znasz
+385,mały,,small; little,,,https://en.wiktionary.org/wiki/ma%C5%82y
+386,ciągle,,constantly; continuously; still,,,https://en.wiktionary.org/wiki/ci%C4%85gle
 387,jakby,conjunction,; if,,,https://en.wiktionary.org/wiki/jakby
-388,wydaje,verb,,,,https://en.wiktionary.org/wiki/wydaje
+388,wydaje,verb,it seems; it appears,,,https://en.wiktionary.org/wiki/wydaje
 389,mama,noun,"mum, mom, mother",,,https://en.wiktionary.org/wiki/mama
-390,powinniśmy,,,,,https://en.wiktionary.org/wiki/powinni%C5%9Bmy
-391,jeżeli,,,,,https://en.wiktionary.org/wiki/je%C5%BCeli
-392,jack,,,,,https://en.wiktionary.org/wiki/jack
-393,powinieneś,,,,,https://en.wiktionary.org/wiki/powiniene%C5%9B
-394,innego,pronoun,,,,https://en.wiktionary.org/wiki/innego
-395,sprawy,noun,,,,https://en.wiktionary.org/wiki/sprawy
-396,rozumiesz,verb,,,,https://en.wiktionary.org/wiki/rozumiesz
-397,trzymaj,verb,,,,https://en.wiktionary.org/wiki/trzymaj
-398,końcu,,,,,https://en.wiktionary.org/wiki/ko%C5%84cu
-399,powodu,noun,,,,https://en.wiktionary.org/wiki/powodu
-400,jedno,numeral,,,,https://en.wiktionary.org/wiki/jedno
-401,pamiętasz,,,,,https://en.wiktionary.org/wiki/pami%C4%99tasz
-402,pomysł,,,,,https://en.wiktionary.org/wiki/pomys%C5%82
+390,powinniśmy,,we should,,,https://en.wiktionary.org/wiki/powinni%C5%9Bmy
+391,jeżeli,,if,,,https://en.wiktionary.org/wiki/je%C5%BCeli
+392,jack,,Jack (name),,,https://en.wiktionary.org/wiki/jack
+393,powinieneś,,you should (masculine),,,https://en.wiktionary.org/wiki/powiniene%C5%9B
+394,innego,pronoun,another; other (genitive masculine),,,https://en.wiktionary.org/wiki/innego
+395,sprawy,noun,matters; affairs (genitive plural),,,https://en.wiktionary.org/wiki/sprawy
+396,rozumiesz,verb,do you understand,,,https://en.wiktionary.org/wiki/rozumiesz
+397,trzymaj,verb,hold; keep (imperative),,,https://en.wiktionary.org/wiki/trzymaj
+398,końcu,,end (locative),,,https://en.wiktionary.org/wiki/ko%C5%84cu
+399,powodu,noun,reason; cause (genitive),,,https://en.wiktionary.org/wiki/powodu
+400,jedno,numeral,one (neuter),,,https://en.wiktionary.org/wiki/jedno
+401,pamiętasz,,do you remember,,,https://en.wiktionary.org/wiki/pami%C4%99tasz
+402,pomysł,,idea,,,https://en.wiktionary.org/wiki/pomys%C5%82
 403,noc,noun,"night, nighttime",,,https://en.wiktionary.org/wiki/noc
-404,pewien,adjective,,,,https://en.wiktionary.org/wiki/pewien
-405,którą,,,,,https://en.wiktionary.org/wiki/kt%C3%B3r%C4%85
-406,wiemy,verb,,,,https://en.wiktionary.org/wiki/wiemy
-407,bądź,,,,,https://en.wiktionary.org/wiki/b%C4%85d%C5%BA
-408,żebym,,,,,https://en.wiktionary.org/wiki/%C5%BCebym
+404,pewien,adjective,certain; sure (masculine),,,https://en.wiktionary.org/wiki/pewien
+405,którą,,which; whom (feminine accusative),,,https://en.wiktionary.org/wiki/kt%C3%B3r%C4%85
+406,wiemy,verb,we know,,,https://en.wiktionary.org/wiki/wiemy
+407,bądź,,be; or (imperative/conjunction),,,https://en.wiktionary.org/wiki/b%C4%85d%C5%BA
+408,żebym,,so that I (would),,,https://en.wiktionary.org/wiki/%C5%BCebym
 409,numer,noun,number,,,https://en.wiktionary.org/wiki/numer
-410,oczy,noun,,,,https://en.wiktionary.org/wiki/oczy
-411,lata,noun,,,,https://en.wiktionary.org/wiki/lata
-412,dwie,numeral,,,,https://en.wiktionary.org/wiki/dwie
-413,miejscu,noun,,,,https://en.wiktionary.org/wiki/miejscu
-414,dokąd,,,,,https://en.wiktionary.org/wiki/dok%C4%85d
+410,oczy,noun,eyes,,,https://en.wiktionary.org/wiki/oczy
+411,lata,noun,years; summers,,,https://en.wiktionary.org/wiki/lata
+412,dwie,numeral,two (feminine),,,https://en.wiktionary.org/wiki/dwie
+413,miejscu,noun,place (locative),,,https://en.wiktionary.org/wiki/miejscu
+414,dokąd,,where to; to where,,,https://en.wiktionary.org/wiki/dok%C4%85d
 415,och,interjection,oh!,,,https://en.wiktionary.org/wiki/och
-416,pokoju,noun,,,,https://en.wiktionary.org/wiki/pokoju
-417,chodźmy,,,,,https://en.wiktionary.org/wiki/chod%C5%BAmy
-418,ojca,noun,,,,https://en.wiktionary.org/wiki/ojca
-419,weź,,,,,https://en.wiktionary.org/wiki/we%C5%BA
-420,idę,,,,,https://en.wiktionary.org/wiki/id%C4%99
-421,samochód,,,,,https://en.wiktionary.org/wiki/samoch%C3%B3d
+416,pokoju,noun,room (genitive/locative),,,https://en.wiktionary.org/wiki/pokoju
+417,chodźmy,,let's go,,,https://en.wiktionary.org/wiki/chod%C5%BAmy
+418,ojca,noun,father (genitive/accusative),,,https://en.wiktionary.org/wiki/ojca
+419,weź,,take (imperative),,,https://en.wiktionary.org/wiki/we%C5%BA
+420,idę,,I am going,,,https://en.wiktionary.org/wiki/id%C4%99
+421,samochód,,car,,,https://en.wiktionary.org/wiki/samoch%C3%B3d
 422,nowy,adjective,new,,,https://en.wiktionary.org/wiki/nowy
 423,jednak,conjunction,however,,,https://en.wiktionary.org/wiki/jednak
-424,świat,,,,,https://en.wiktionary.org/wiki/%C5%9Bwiat
-425,źle,,,,,https://en.wiktionary.org/wiki/%C5%BAle
-426,którego,,,,,https://en.wiktionary.org/wiki/kt%C3%B3rego
+424,świat,,world,,,https://en.wiktionary.org/wiki/%C5%9Bwiat
+425,źle,,badly; wrong,,,https://en.wiktionary.org/wiki/%C5%BAle
+426,którego,,which; whose (genitive masculine/neuter),,,https://en.wiktionary.org/wiki/kt%C3%B3rego
 427,niczego,adjective,"decent, alright",,,https://en.wiktionary.org/wiki/niczego
-428,oto,particle,,,,https://en.wiktionary.org/wiki/oto
-429,dwóch,,,,,https://en.wiktionary.org/wiki/dw%C3%B3ch
+428,oto,particle,here is; here are,,,https://en.wiktionary.org/wiki/oto
+429,dwóch,,two (masculine/genitive),,,https://en.wiktionary.org/wiki/dw%C3%B3ch
 430,sprawa,noun,"issue, affair, matter, business, thing",,,https://en.wiktionary.org/wiki/sprawa
-431,swój,,,,,https://en.wiktionary.org/wiki/sw%C3%B3j
-432,idzie,verb,,,,https://en.wiktionary.org/wiki/idzie
-433,takim,pronoun,,,,https://en.wiktionary.org/wiki/takim
-434,jedną,,,,,https://en.wiktionary.org/wiki/jedn%C4%85
-435,wystarczy,verb,,,,https://en.wiktionary.org/wiki/wystarczy
-436,byłam,,,,,https://en.wiktionary.org/wiki/by%C5%82am
+431,swój,,one's own (masculine nominative),,,https://en.wiktionary.org/wiki/sw%C3%B3j
+432,idzie,verb,he/she/it goes; is going,,,https://en.wiktionary.org/wiki/idzie
+433,takim,pronoun,such (locative masculine/neuter),,,https://en.wiktionary.org/wiki/takim
+434,jedną,,one (feminine accusative),,,https://en.wiktionary.org/wiki/jedn%C4%85
+435,wystarczy,verb,it's enough; it will suffice,,,https://en.wiktionary.org/wiki/wystarczy
+436,byłam,,I was (feminine),,,https://en.wiktionary.org/wiki/by%C5%82am
 437,rano,noun,morning,,,https://en.wiktionary.org/wiki/rano
-438,nimi,pronoun,,,,https://en.wiktionary.org/wiki/nimi
-439,halo,noun,,,,https://en.wiktionary.org/wiki/halo
-440,byś,,,,,https://en.wiktionary.org/wiki/by%C5%9B
-441,życiu,,,,,https://en.wiktionary.org/wiki/%C5%BCyciu
-442,całe,,,,,https://en.wiktionary.org/wiki/ca%C5%82e
-443,wiedziałem,,,,,https://en.wiktionary.org/wiki/wiedzia%C5%82em
-444,swojego,pronoun,,,,https://en.wiktionary.org/wiki/swojego
-445,śmierć,,,,,https://en.wiktionary.org/wiki/%C5%9Bmier%C4%87
-446,ręce,,,,,https://en.wiktionary.org/wiki/r%C4%99ce
-447,musiał,,,,,https://en.wiktionary.org/wiki/musia%C5%82
-448,którym,,,,,https://en.wiktionary.org/wiki/kt%C3%B3rym
-449,całą,,,,,https://en.wiktionary.org/wiki/ca%C5%82%C4%85
-450,chcą,,,,,https://en.wiktionary.org/wiki/chc%C4%85
-451,da,interjection,,,,https://en.wiktionary.org/wiki/da
-452,właściwie,,,,,https://en.wiktionary.org/wiki/w%C5%82a%C5%9Bciwie
-453,zrób,,,,,https://en.wiktionary.org/wiki/zr%C3%B3b
-454,panowie,noun,,,,https://en.wiktionary.org/wiki/panowie
+438,nimi,pronoun,with them (instrumental plural),,,https://en.wiktionary.org/wiki/nimi
+439,halo,noun,hello (on phone),,,https://en.wiktionary.org/wiki/halo
+440,byś,,you would (conditional),,,https://en.wiktionary.org/wiki/by%C5%9B
+441,życiu,,life (locative),,,https://en.wiktionary.org/wiki/%C5%BCyciu
+442,całe,,whole; entire (neuter),,,https://en.wiktionary.org/wiki/ca%C5%82e
+443,wiedziałem,,I knew (masculine),,,https://en.wiktionary.org/wiki/wiedzia%C5%82em
+444,swojego,pronoun,one's own (genitive masculine/neuter),,,https://en.wiktionary.org/wiki/swojego
+445,śmierć,,death,,,https://en.wiktionary.org/wiki/%C5%9Bmier%C4%87
+446,ręce,,hands,,,https://en.wiktionary.org/wiki/r%C4%99ce
+447,musiał,,had to; was obliged to (masculine),,,https://en.wiktionary.org/wiki/musia%C5%82
+448,którym,,which (locative/instrumental masculine/neuter),,,https://en.wiktionary.org/wiki/kt%C3%B3rym
+449,całą,,whole; entire (feminine accusative),,,https://en.wiktionary.org/wiki/ca%C5%82%C4%85
+450,chcą,,they want,,,https://en.wiktionary.org/wiki/chc%C4%85
+451,da,interjection,he/she/it will give,,,https://en.wiktionary.org/wiki/da
+452,właściwie,,actually; properly,,,https://en.wiktionary.org/wiki/w%C5%82a%C5%9Bciwie
+453,zrób,,do; make (imperative),,,https://en.wiktionary.org/wiki/zr%C3%B3b
+454,panowie,noun,gentlemen,,,https://en.wiktionary.org/wiki/panowie
 455,skoro,conjunction,since,,,https://en.wiktionary.org/wiki/skoro
 456,drogi,adjective,"dear, expensive",,,https://en.wiktionary.org/wiki/drogi
-457,czujesz,verb,,,,https://en.wiktionary.org/wiki/czujesz
-458,dam,verb,,,,https://en.wiktionary.org/wiki/dam
-459,pozwól,,,,,https://en.wiktionary.org/wiki/pozw%C3%B3l
-460,wyglądasz,,,,,https://en.wiktionary.org/wiki/wygl%C4%85dasz
-461,jednego,numeral,,,,https://en.wiktionary.org/wiki/jednego
-462,jedna,numeral,,,,https://en.wiktionary.org/wiki/jedna
-463,mówił,,,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C5%82
-464,których,,,,,https://en.wiktionary.org/wiki/kt%C3%B3rych
-465,świecie,,,,,https://en.wiktionary.org/wiki/%C5%9Bwiecie
-466,patrz,verb,,,,https://en.wiktionary.org/wiki/patrz
-467,nikogo,pronoun,,,,https://en.wiktionary.org/wiki/nikogo
-468,byli,adjective,,,,https://en.wiktionary.org/wiki/byli
+457,czujesz,verb,you feel,,,https://en.wiktionary.org/wiki/czujesz
+458,dam,verb,I will give,,,https://en.wiktionary.org/wiki/dam
+459,pozwól,,let; allow (imperative),,,https://en.wiktionary.org/wiki/pozw%C3%B3l
+460,wyglądasz,,you look; you appear,,,https://en.wiktionary.org/wiki/wygl%C4%85dasz
+461,jednego,numeral,one (genitive masculine/neuter),,,https://en.wiktionary.org/wiki/jednego
+462,jedna,numeral,one (feminine nominative),,,https://en.wiktionary.org/wiki/jedna
+463,mówił,,he was saying; said,,,https://en.wiktionary.org/wiki/m%C3%B3wi%C5%82
+464,których,,which; whom (genitive/locative plural),,,https://en.wiktionary.org/wiki/kt%C3%B3rych
+465,świecie,,world (locative),,,https://en.wiktionary.org/wiki/%C5%9Bwiecie
+466,patrz,verb,look (imperative),,,https://en.wiktionary.org/wiki/patrz
+467,nikogo,pronoun,nobody; no one (genitive/accusative),,,https://en.wiktionary.org/wiki/nikogo
+468,byli,adjective,they were (masculine personal),,,https://en.wiktionary.org/wiki/byli
 469,pytanie,noun,question,,,https://en.wiktionary.org/wiki/pytanie
-470,swoim,pronoun,,,,https://en.wiktionary.org/wiki/swoim
-471,której,,,,,https://en.wiktionary.org/wiki/kt%C3%B3rej
-472,powinienem,verb,,,,https://en.wiktionary.org/wiki/powinienem
-473,jezu,,,,,https://en.wiktionary.org/wiki/jezu
-474,dać,,,,,https://en.wiktionary.org/wiki/da%C4%87
+470,swoim,pronoun,one's own (locative/instrumental),,,https://en.wiktionary.org/wiki/swoim
+471,której,,which; of which (feminine genitive/locative),,,https://en.wiktionary.org/wiki/kt%C3%B3rej
+472,powinienem,verb,I should (masculine),,,https://en.wiktionary.org/wiki/powinienem
+473,jezu,,"Jesus (vocative, exclamation)",,,https://en.wiktionary.org/wiki/jezu
+474,dać,,to give,,,https://en.wiktionary.org/wiki/da%C4%87
 475,rzecz,noun,thing,,,https://en.wiktionary.org/wiki/rzecz
-476,powiedziała,,,,,https://en.wiktionary.org/wiki/powiedzia%C5%82a
-477,powiedziałeś,,,,,https://en.wiktionary.org/wiki/powiedzia%C5%82e%C5%9B
+476,powiedziała,,she said,,,https://en.wiktionary.org/wiki/powiedzia%C5%82a
+477,powiedziałeś,,you said (masculine),,,https://en.wiktionary.org/wiki/powiedzia%C5%82e%C5%9B
 478,najpierw,adverb,"first, firstly, first of all",,,https://en.wiktionary.org/wiki/najpierw
-479,sądzę,,,,,https://en.wiktionary.org/wiki/s%C4%85dz%C4%99
+479,sądzę,,I think; I suppose,,,https://en.wiktionary.org/wiki/s%C4%85dz%C4%99
 480,prawo,noun,law,,,https://en.wiktionary.org/wiki/prawo
 481,matka,noun,mother,,,https://en.wiktionary.org/wiki/matka
 482,widzieć,,,,,https://en.wiktionary.org/wiki/widzie%C4%87
